@@ -4,7 +4,7 @@
 
 source: [https://en.wikipedia.org/wiki/Monty_Hall_problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)
 
-### This code is a simulation to show what happens if to switch in Monty Hall problem. 
+### This code is a simulation to show what happens if you were to switch in Monty Hall problem. 
 
 ---
 
