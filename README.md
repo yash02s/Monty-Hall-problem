@@ -1,6 +1,6 @@
  # Monty Hall problem
 
-"Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice?"
+"Assume you're on a game show and you have an option between three doors: A automobile is hidden behind one of the doors, and goats are hidden behind the others. You choose one of the doors, say No. 1, and the host, who knows what's behind the doors, unlocks another, say No. 3, which contains a goat. "Do you want to choose door No. 2?" he asks. Is it in your best interests to change your mind?"
 
 source: [https://en.wikipedia.org/wiki/Monty_Hall_problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)
 
